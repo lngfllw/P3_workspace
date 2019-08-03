@@ -1,0 +1,14 @@
+<package>
+  <description brief="my_robot">
+
+     my_robot
+
+  </description>
+  <author>robond</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/my_robot</url>
+
+</package>
+
+
